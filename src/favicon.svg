@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg907"
+   version="1.1"
+   viewBox="0 0 57.750816 57.750809"
+   height="57.750809mm"
+   width="57.750816mm">
+  <defs
+     id="defs901" />
+  <metadata
+     id="metadata904">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-50.800484,-136.41835)"
+     id="layer1">
+    <rect
+       rx="4.4099474"
+       ry="4.4099474"
+       y="136.41835"
+       x="50.800484"
+       height="57.750809"
+       width="57.750816"
+       id="rect1497"
+       style="opacity:1;fill:#4472c4;fill-opacity:1;stroke:none;stroke-width:0.52899992;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <g
+       transform="translate(-68.787888,6.2743073)"
+       id="g1503">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.27777863px;line-height:0;font-family:sans-serif;letter-spacing:-5.17260408px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="120.11019"
+         y="177.63765"
+         id="text1456"><tspan
+           id="tspan1454"
+           x="120.11019"
+           y="177.63765"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:0;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';letter-spacing:-5.17260408px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">P</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:35.27777863px;line-height:0;font-family:sans-serif;letter-spacing:-5.17260408px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="-176.81737"
+         y="-140.40125"
+         id="text1456-5"
+         transform="scale(-1)"><tspan
+           id="tspan1454-2"
+           x="-176.81737"
+           y="-140.40125"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.79999924px;line-height:0;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';letter-spacing:-5.17260408px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">F</tspan></text>
+    </g>
+  </g>
+</svg>
